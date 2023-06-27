@@ -4,9 +4,13 @@ It's is a challenge about Cardiac Pathology Prediction. It a 5-class classificat
 The project focuses on four heart conditions that may go initially unremarkable, but can eventually be life-threatening. Complications may include
 severe heart failure and sudden cardiac arrest. More particularly, the aim is to classify MRI images of the heart into five diagnostic classes:
 • ‘0’ Healthy controls
+
 • ‘1’ Myocardial infarction
+
 • ‘2’ Dilated cardiomyopathy
+
 • ‘3’ Hypertrophic cardiomyopathy
+
 • ‘4’ Abnormal right ventricle
 
 Some of the relevant features help identify the state of the subject as the volume of the
