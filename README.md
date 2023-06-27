@@ -9,7 +9,7 @@ severe heart failure and sudden cardiac arrest. More particularly, the aim is to
 • ‘3’ Hypertrophic cardiomyopathy
 • ‘4’ Abnormal right ventricle
 
-![Capture](https://github.com/souheib1/Cardiac-Pathology-Prediction/assets/73786465/c7fe0904-aabc-408e-b059-475495f173b8)
+![Capture](https://github.com/souheib1/Cardiac-Pathology-Prediction/assets/73786465/705f1057-0cce-4630-83ba-b5f95c850ccf)
 
 
 Some of the relevant features help identify the state of the subject as the volume of the
@@ -18,4 +18,4 @@ Myocardium) at end diastle and at end systole, the Thickness of the Myocardium a
 Fractions of both of the left and right ventricle cavities. A segmentation part was needed to extract the region of interest.
 
 
-![Capture](https://github.com/souheib1/Cardiac-Pathology-Prediction/assets/73786465/705f1057-0cce-4630-83ba-b5f95c850ccf)
+
