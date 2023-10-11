@@ -30,8 +30,7 @@ Fractions of both of the left and right ventricle cavities. A segmentation part 
 | Random Forest  |           0.8625 |                                   0.8    | n estimators: 30, max features: 'sqrt',  min_samples_leaf: 4, criterion: entropy|
 | KNN            |           0.85   |                                   0.7142 | K=7                                          |
 | SVC            |           0.87   |                                   0.8    | kernel: linear, gamma: 0.01, C: 10           |
-| MLP            |           0.864  |                                   0.8285 | solver: lbfgs, random state: 0,              |
-|                |                  |                                        | hidden layer sizes: 250, alpha: 0.01        |
+| MLP            |           0.864  |                                   0.8285 | solver: lbfgs, random state: 0,  hidden layer sizes: 250, alpha: 0.01 |
 
 
 
