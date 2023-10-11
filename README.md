@@ -27,8 +27,7 @@ Fractions of both of the left and right ventricle cavities. A segmentation part 
 | Model          | Validation Score | Accuracy on private leaderboard (Kaggle) | Optimal hyperparameters                       |
 |:---------------|-----------------:|-----------------------------------------:|:---------------------------------------------|
 | Decision Trees |           0.7875 |                                   0.6571 | min samples leaf: 2, criterion: gini          |
-| Random Forest  |           0.8625 |                                   0.8    | n estimators: 30, max features: 'sqrt',      |
-|                |                  |                                        | min_samples_leaf: 4, criterion: entropy      |
+| Random Forest  |           0.8625 |                                   0.8    | n estimators: 30, max features: 'sqrt',  min_samples_leaf: 4, criterion: entropy|
 | KNN            |           0.85   |                                   0.7142 | K=7                                          |
 | SVC            |           0.87   |                                   0.8    | kernel: linear, gamma: 0.01, C: 10           |
 | MLP            |           0.864  |                                   0.8285 | solver: lbfgs, random state: 0,              |
